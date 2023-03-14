@@ -49,4 +49,4 @@ const ticketsList = new TicketsList(
 );
 
 ticketsList.assignHandler();
-ticketsList.downloadTickets();  
+ticketsList.downloadTickets();
